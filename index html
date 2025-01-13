@@ -1,0 +1,163 @@
+<h3>Welcome to the free online <span>HTML Code Editor</span></h3>
+<p><strong>Compose the content in the source editor on the left and see the preview changing instantly on the right as you're typing.</strong></p>
+<p>Use the bar above the editor to create new HTML elements. Explore the cleaning features, the tag wizard and many other integrated fratures that make web code composing really easy <img src="https://htmlcodeeditor.com/images/smiley.png" alt="smiley" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Sanat Acharya - Personal Website</title>
+<body>
+ <header>
+ <h1>Sanat Acharya</h1>
+ <p>Computer Teacher From Nepal</p>
+ </header>
+ <main>
+ <section>
+ <div>
+ <p>I am here to support your journey towards mastering technology and achieving career success. My role is to guide you through the complexities of IT, making learning engaging and effective.</p>
+ </div>
+ </section>
+ <section>
+ <div>
+ <h2>What I Offer</h2>
+ <div>
+ <div>
+ <div>
+ <div>
+ <h5>Online Class</h5>
+ <p>AI, content writing</p>
+ </div>
+ </div>
+ </div>
+ <div>
+ <div>
+ <div>
+ <h5>Tech Consultation</h5>
+ <p>Help organizations become digital and increase revenue</p>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </section>
+ <section>
+ <div>
+ <h2>Contact</h2>
+ <p>
+ <a href="https://www.facebook.com/sanatacharya" target="_blank">Facebook</a> | <a
+ href="mailto:sanatsusant@gmail.com">sanatsusant@gmail.com</a>
+ </p>
+ </div>
+ </section>
+ </main>
+ <footer>
+ <p>&copy; 2025 Sanat Acharya. Designed with <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>.</p>
+ </footer>
+</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Sanat Acharya - Personal Website</title>
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+ <header>
+ <h1>Sanat Acharya</h1>
+ <p>Computer Teacher From Nepal</p>
+ <a href="#contact">Get In Touch</a>
+ </header>
+ <main>
+ <section>
+ <div>
+ <p>I am here to support your journey towards mastering technology and achieving career success. My role is to guide you through the complexities of IT, making learning engaging and effective.</p>
+ </div>
+ </section>
+ <section>
+ <div>
+ <h2>What I Offer</h2>
+ <div>
+ <div>
+ <div>
+ <div>
+ <h5>Online Class</h5>
+ <p>AI, content writing</p>
+ <a href="#contact">Learn More</a>
+ </div>
+ </div>
+ </div>
+ <div>
+ <div>
+ <div>
+ <h5>Tech Consultation</h5>
+ <p>Help organizations become digital and increase revenue</p>
+ <a href="#contact">Learn More</a>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </section>
+ <section>
+ <div>
+ <h2>Testimonials</h2>
+ <div>
+ <div>
+ <blockquote>
+ <p>"Sanat's classes helped me transition into a tech-savvy professional! Highly recommend."</p>
+ <footer>A Satisfied Student</footer>
+ </blockquote>
+ </div>
+ <div>
+ <blockquote>
+ <p>"The tech consultation boosted our company's revenue by 40%. Thank you, Sanat!"</p>
+ <footer>Business Owner</footer>
+ </blockquote>
+ </div>
+ <div>
+ <blockquote>
+ <p>"Learning AI with Sanat was a game-changer for my career."</p>
+ <footer>Tech Enthusiast</footer>
+ </blockquote>
+ </div>
+ </div>
+ </div>
+ </section>
+ <section>
+ <div>
+ <h2>Why Choose Me?</h2>
+ <ul>
+ <li>✅ Over 10 years of teaching experience</li>
+ <li>✅ Proven track record in tech consultation</li>
+ <li>✅ Personalized learning approach</li>
+ </ul>
+ </div>
+ </section>
+ <section>
+ <div>
+ <h2>Contact</h2>
+ <p>
+ <a href="https://www.facebook.com/sanatacharya" target="_blank">Facebook</a> | <a
+ href="mailto:sanatsusant@gmail.com">sanatsusant@gmail.com</a>
+ </p>
+ <form>
+ <div>
+ <input type="text" placeholder="Your Name" required>
+ </div>
+ <div>
+ <input type="email" placeholder="Your Email" required>
+ </div>
+ <div>
+ </div>
+ <button type="submit">Send Message</button>
+ </form>
+ </div>
+ </section>
+ </main>
+ <footer>
+ <p>&copy; 2025 Sanat Acharya. Designed with <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>.</p>
+ </footer>
+</body>
+</html>
